@@ -8,4 +8,4 @@ Dit is een wijziging op Git
 Dit is een tweede wijziging
 
 * Harm Snippe
-* ...
+* Tom
