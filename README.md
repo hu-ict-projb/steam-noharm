@@ -5,5 +5,7 @@ Dit is een wijziging op Git
 
 ### Teamleden:
 
-* ... (Voorzitter)
+Dit is een tweede wijziging
+
+* Harm Snippe
 * ...
